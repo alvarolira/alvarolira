@@ -1,16 +1,22 @@
-### Hi there 👋
+### Mi introduccion.
+-:grin:Mi nombre es Alvaro Lira
 
-<!--
-**alvarolira/alvarolira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-:grin:Estudio CS en UTEC
 
-Here are some ideas to get you started:
+-:grin:Vivo en Lima
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes de programacion
+-:computer:C++
+
+-:computer:Python
+
+[This is an image](https://i.ytimg.com/vi/7TezZ2JbvZs/maxresdefault.jpg)
+
+### Mas sobre mi .
+Me gusta los videojuegos.
+
+Salir al cine 
+
+Mi correo es  [GitHub Pages](https://mail.google.com/mail/u/1/#inbox).
+
+
